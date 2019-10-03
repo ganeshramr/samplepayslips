@@ -1,0 +1,39 @@
+﻿"Sample salary slip for 15 days in SUNNYVALE CITY, CALIFORNIA STATE, USA"
+Period Beginning:,4/1/2014,Period Ending:,4/15/2014,Pay Date:,8/15/2014
+Name and Address of the company:,,,,,
+Name and address of the employee:,Social Security Number:,Marital Status: Married,,Exemptions: 5,
+Deposited to the account of:,Account Number:,Transit:,ABA,Amount,Advice No/PayDate
+,,,,,
+Earnings Statement,Earnings,Rate,Hours,This Period,Year To Date
+,Regular,5208.33,,5208.33,
+Your federal taxable wages this period,Bonus,,,,
+are: 5003.61,Retro,,,,
+,Gross Pay:,,,5208.33,36458.31
+,,,,,
+Deductions:,,,,,
+,Statutory:,,,,
+,Federal Income Tax:,,,-611.86,4283.02
+,Social Security Tax:,,,-310.41,2172.86
+,Medicare Tax:,,,-72.6,508.17
+,CA State Income Tax,,,-359.24,2514.68
+,CA SUl/SDI Tax,,,-50.03,350.25
+,,,,,
+,Other,,,,
+,Aft S Lif In,,,,
+,Aftertax Ltd,,,,
+,Checking 1,,,,
+,Dependent Child,,,,
+,PostTax Transit,,,,
+,Pretax Dental*,,,-24.88,174.16
+,Pretax 401k*,,,,
+,Pretrans*,,,,
+,Pretx Med Pos*,,,-179.84,"1,258.88"
+,Spouse Life,,,,
+* means excluded from federal taxable,Vision Pre Tx*,,,,
+wages,,,,,
+,Net Pay,,,,
+Other Benefits Information:,,,,,
+,Employer Match 401k,,,,
+,Group Term Life,,,2.98,20.86
+,401k Elig Wages,,,,
+,At 401k,,,,
